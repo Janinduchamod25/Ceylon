@@ -1,0 +1,120 @@
+// --------------------------------- navbar -------------------------------
+.navbar{
+  height: 80px;
+  background-image: linear-gradient(green, darkgreen);
+}
+.navbar-collapse{
+  margin-left: 280px;
+}
+
+#navbar-topic{
+  font-size: 35px;
+  margin-left: 30px;
+  margin-top: -6px;
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Licorice', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Saira Condensed', sans-serif;
+  font-family: 'Sedgwick Ave', cursive;
+  font-family: 'Staatliches', cursive;
+  font-family: 'Supermercado One', cursive;
+  font-family: 'Syne Tactile', cursive;
+}
+.sri{
+  margin-right: -32px;
+}
+
+//------------------------ bi -------------------------
+
+.bi-house-fill{
+  margin-left: 7.5px;
+  margin-bottom: 5px;
+}
+
+.bi-speedometer{
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.bi-journal-bookmark-fill{
+  margin-left: 3px;
+  margin-bottom: 5px;
+}
+
+.bi-vehicle{
+  margin-left: 15px;
+  margin-bottom: -5px;
+  margin-top: -5px;
+}
+
+.bi-camera-fill{
+  margin-left: 18px;
+  margin-bottom: 4px;
+}
+
+.bi-file-person-fill{
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-top: 2px;
+}
+
+//----------------------------- navbar-items ------------------------------------
+
+.nav-link{
+  font-family: 'Akaya Telivigala', cursive;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Licorice', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  font-family: 'Saira Condensed', sans-serif;
+  font-family: 'Sedgwick Ave', cursive;
+  font-family: 'Staatliches', cursive;
+  font-family: 'Supermercado One', cursive;
+  font-family: 'Syne Tactile', cursive;
+}
+
+#navbar-page-2{
+  margin-left: 25px;
+}
+
+#navbar-page-3{
+  margin-left: 25px;
+}
+
+#navbar-page-4{
+  margin-left: 25px;
+}
+
+#navbar-page-5{
+  margin-left: 25px;
+}
+
+#navbar-page-6{
+  margin-left: 25px;
+}
+
+#login{
+  height: 42px;
+  margin-left: 268px;
+  margin-top: 15px;
+  font-weight: bold;
+}
+#login:hover {
+  color:lime;
+}
+
+#sign-up{
+  height: 42px;
+  margin-left: 30px;
+  margin-top: 15px;
+  font-weight: bold;
+}
+#sign-up:hover{
+  color:lime;
+}
